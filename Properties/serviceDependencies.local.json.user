@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-10-20T11:01:09.5115904Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2023-10-20T11:00:42.6178494Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "72966e6d-3ac5-4885-a140-9d0ced301704"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Thabani"
+    }
+  }
+}
